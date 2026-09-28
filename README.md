@@ -7,9 +7,10 @@ Explore the BEST colors, GOOD colors, MARGINAL colors, SOLID colors, and ERROR c
 Color rating is subjective. In general, color rating will follow these guidelines:
 
 - BEST: Highly readable, with an excellent color scheme.
-- GOOD: Highly readable, but may not provide an ideal color scheme.
+- GOOD: Readable, but may not provide an ideal color scheme.
 - MARGINAL: Poor readability.
 - SOLID: Technically not an error combination, but it might as well be.
+- ERROR: not readable
  
 
 ![alt text][logo]
